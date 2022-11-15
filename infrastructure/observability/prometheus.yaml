@@ -13,5 +13,4 @@ spec:
         kind: HelmRepository
         name: community
   interval: 1m0s
-  targetNamespace: observability
 
