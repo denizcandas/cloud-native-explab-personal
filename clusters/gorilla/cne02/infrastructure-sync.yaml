@@ -5,7 +5,7 @@ metadata:
   name: infrastructure
   namespace: flux-system
 spec:
-  interval: 5m0s
+  interval: 30s
   path: ./infrastructure/gorilla/cne02
   prune: true
   sourceRef:
